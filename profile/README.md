@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Brand Header & Custom Color Badges (#1a3160 & #38bdf8) -->
-  <h1>⚡ BamaPayment | باماپیمنت</h1>
+  <h1>BamaPayment | باماپیمنت</h1>
   <p><strong>مرجع تخصصی پرداخت‌های ارزی بین‌المللی و راهکارهای نوین فین‌تک بدون مرز</strong></p>
   <p><em>Borderless International FinTech & Cross-Border Payment Infrastructure</em></p>
 
